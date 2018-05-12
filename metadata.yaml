@@ -1,0 +1,30 @@
+_repo: Marcy-the-Refugee_31831
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: ''
+gutenberg_issued: '2010-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31831'
+  lccn: '12031267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcc 'PZ'
+title: Marcy, the Refugee
+url: http://www.gutenberg.org/ebooks/31831
